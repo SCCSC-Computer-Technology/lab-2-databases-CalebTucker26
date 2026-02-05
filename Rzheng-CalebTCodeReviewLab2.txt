@@ -1,0 +1,9 @@
+Hey Caleb, your Form is very well made. I especially liked the dropdown menu you used for sorting the data.  I used buttons that would sort it instead.
+One small thing I noticed is that the primary key (ID) appears to show an index of -1 when a new row is added. This doesn’t break the application or affect functionality,
+but from a user perspective, it might be clearer if the indexing started at 1 instead.
+
+One thing we did do similarly was that we mainly used SQL in the cityTableAdpater. 
+However, maybe this is something on my end, when I press configure to see your SQL, some of the formatt is off. Some of your query are super spaced out with weirld indents. 
+Agian, this doesn't interfered with your app, but it does make the code less legitable. 
+Another minor thing would be to string mask the population total, shown by clicking the "Get Population" button, with the appropriate commas. For example, 100000 would be 100,000. 
+But overall, great job!
